@@ -1,1 +1,1 @@
-A Group Of simple projects to applay on python concept
+A Group Of simple projects to apply to Python basics & concepts
